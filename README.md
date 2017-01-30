@@ -21,6 +21,8 @@ Oooooooooohhhh....shiny!
 
 So let's get started!
 
+---
+
 ### 1. Setting up a Slack Web Hook
 
 ![Webhooks](https://abdelkrim.files.wordpress.com/2014/02/aaarr-webhooks-pirate.gif)
@@ -98,16 +100,12 @@ class UsersController < ApplicationController
     redirect_to @user
   end
   ```
+  ---
   
   So that's slack-notifier.  I hope you learned something.
   
   If you did, you can officially consider yourself........
   
-  
-  
-  
-  
-  
-  **NOTIFIED!!!**
+  ##NOTIFIED!!!
   
   ![rimshot](https://media.giphy.com/media/cD7PLGE1KWOhG/giphy.gif)
