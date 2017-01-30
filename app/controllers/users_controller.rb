@@ -14,7 +14,9 @@ class UsersController < ApplicationController
 
   def create
     @user = User.create(user_params)
+    notifier = Slack::Notifier.new "https://hooks.slack.com/services/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"
     login(@user)
+    notifier.ping "A new user named #{current_user.name} has joined your site!"
     redirect_to @user
   end
 

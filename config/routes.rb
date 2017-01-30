@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   get '/' => 'users#index'
   get '/users/new' => 'users#new'
 
-  get '/login', to: 'sessions#new'
-  get '/logout', to: 'sessions#destroy'
-  post '/sessions', to: 'sessions#create'
+  get '/login', to: 'sesssions#new'
+  get '/logout', to: 'sesssions#destroy'
+  post '/sessions', to: 'sesssions#create'
 end
