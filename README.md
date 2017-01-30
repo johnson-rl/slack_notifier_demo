@@ -109,6 +109,6 @@ class UsersController < ApplicationController
   
   If you did, you can officially consider yourself........
   
-  ##NOTIFIED!!!
+  ## NOTIFIED!!!
   
   ![rimshot](https://media.giphy.com/media/cD7PLGE1KWOhG/giphy.gif)
