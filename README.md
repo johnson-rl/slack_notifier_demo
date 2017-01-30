@@ -107,8 +107,8 @@ class UsersController < ApplicationController
   
   So that's slack-notifier.  I hope you learned something.
   
-  If you did, you can officially consider yourself........
+  If you did, you can officially consider yourself...
   
-  ## NOTIFIED!!!
+  ## Notified!!!
   
   ![rimshot](https://media.giphy.com/media/cD7PLGE1KWOhG/giphy.gif)
