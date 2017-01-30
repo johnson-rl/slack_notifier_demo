@@ -10,4 +10,15 @@ Wouldn't it be great if your app was smart enough to contact you when notable ev
 How you ask?  Through the magic of [a sweet gem named slack-notifier.](https://github.com/stevenosloan/slack-notifier)
 
 ![Gems](http://www.whereoware.com/blog/wp-content/uploads/Colorful-Gems.jpg)
+
 Oooooooooohhhh....shiny!
+
+It's pretty easy really...there are just three step:
+
+* Set up a slack account and a personal slack team with a web hook
+* Install slack-notifier
+* Write a notifier into your code for any important event
+
+So let's get started!
+
+
