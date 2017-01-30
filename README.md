@@ -108,6 +108,6 @@ class UsersController < ApplicationController
   
   
   
-  # *NOTIFIED!!!*
+  **NOTIFIED!!!**
   
   ![rimshot](https://media.giphy.com/media/cD7PLGE1KWOhG/giphy.gif)
