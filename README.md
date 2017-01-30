@@ -11,7 +11,7 @@ How you ask?  Through the magic of [a sweet gem named slack-notifier.](https://g
 
 ![Gems](http://www.whereoware.com/blog/wp-content/uploads/Colorful-Gems.jpg)
 
-*Oooooooooohhhh....shiny!
+*Oooooooooohhhh....shiny!*
 
 It's pretty easy really...there are just three step:
 
