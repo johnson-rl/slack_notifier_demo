@@ -31,10 +31,9 @@ Ok, so what's a webhook?  Well....I have no idea.  Off to google!
 
 ```
 So, what exactly is a webhook? 
-A webhook (also called a web callback or HTTP push API) is a way for 
-an app to provide other applications with real-time information. 
-A webhook delivers data to other applications as it happens, 
-meaning you get data immediately.
+A webhook (also called a web callback or HTTP push API) is a way for an app to provide other applications
+with real-time information. 
+A webhook delivers data to other applications as it happens, meaning you get data immediately.
 ```
 
 [Answer provided by sendgrid.com](https://sendgrid.com/blog/whats-webhook/)
